@@ -1,5 +1,4 @@
 letters = 'abcdefghijklmnopqrstuvwxyz'
-key = 3
 
 def encrypt(text,key):
     ciphertext = ''
