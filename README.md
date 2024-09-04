@@ -1,2 +1,6 @@
 # PRODIGY_CS_01
-This repository contains the solution to the first task of Prodigy Infotech internship for Cyber Security
+
+Task 01: 
+Create a Python program that can encrypt and decrypt text using Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
+
+
